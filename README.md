@@ -17,7 +17,7 @@ The project demonstrates:
 ## Files
 
 - `MonteCarloOptionPricing.ipynb` — Jupyter notebook with full implementation, explanations, and plots.
-- `README.md` — Project overview and instructions.
+- `MonteCarlo_OptionPricing_Report.md` – A shorter research paper version related to the project.
 
 ## Installation
 
